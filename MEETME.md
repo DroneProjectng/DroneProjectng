@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DroneProjectng
 - 👀 I’m interested in Drone and Robotics
-- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on any project related to Drone and Robotics
 - 📫 How to reach me on droneprojectng@gmail.com
 
